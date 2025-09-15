@@ -2,9 +2,8 @@
 
 **Author:** Jay Vithlani  
 **Medium article:** <https://medium.com/@jvithlani4/imbalanced-learning-that-pays-calibrated-credit-card-fraud-detection-with-decision-curves-f74faae666b2>  
-**Transcript (PDF):** `https://docs.google.com/document/d/1wguY-80IXSL_9RUXMq0ZHGF7GAkaG_cXG0N4_TpDH7Y/edit?usp=sharing`  
-
-
+**Transcript (PDF):** <https://docs.google.com/document/d/1wguY-80IXSL_9RUXMq0ZHGF7GAkaG_cXG0N4_TpDH7Y/edit?usp=sharing>  
+**CSV download:** <https://drive.google.com/drive/folders/1L9_MxgGFxOaqHWBbdM3VwqhzeSFGnZC3?usp=sharing>
 
 > This repo contains all artifacts for my Assignment-1. The project follows **CRISP-DM** end-to-end and focuses on **calibrated, cost-aware** fraud detection on the ULB/Worldline dataset.
 
